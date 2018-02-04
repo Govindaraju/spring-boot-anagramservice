@@ -1,0 +1,7 @@
+smt
+tms
+mst
+stm
+keep
+peek
+eekp

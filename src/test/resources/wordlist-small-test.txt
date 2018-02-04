@@ -1,0 +1,9 @@
+smt
+tms
+mst
+stm
+keep
+peek
+eekp
+ravi
+arvi
